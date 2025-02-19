@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-https://pixel-profile.vercel.app/api/github-stats?username=Brumarasilva
+![githubstatics](https://pixel-profile.vercel.app/api/github-stats?username=Brumarasilva)
